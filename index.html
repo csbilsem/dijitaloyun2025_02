@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dijital Oyun Tasarımı | Öğrenci Çalışmaları</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&family=Nunito:wght@400;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="badge">Bilişim Teknolojileri</div>
+      <h1>Dijital Oyun Tasarımı</h1>
+      <p class="subtitle">Öğrenci Çalışmaları</p>
+
+      <div class="quick-links">
+        <a class="btn btn-ghost" href="/students/">Öğrenciler</a>
+        <a class="btn btn-ghost" href="#liste">Oyunlar</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container" id="liste">
+    <section class="panel">
+      <div class="panel-top">
+        <h2>Oyun Galerisi</h2>
+        <div class="stats">
+          <span class="stat-pill" id="statTotal">Toplam: —</span>
+          <span class="stat-pill" id="statShown">Gösterilen: —</span>
+        </div>
+      </div>
+
+      <div class="filters">
+        <label class="field">
+          <span>Arama</span>
+          <input id="searchInput" type="search" placeholder="Örn: Uzay, Zıplama, Ali..." autocomplete="off" />
+        </label>
+
+        <label class="field">
+          <span>Öğrenci</span>
+          <select id="studentSelect">
+            <option value="">Tümü</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span>Etiket</span>
+          <select id="tagSelect">
+            <option value="">Tümü</option>
+          </select>
+        </label>
+
+        <button class="btn btn-sun" id="clearBtn" type="button">Temizle</button>
+      </div>
+
+      <div class="chips" id="tagChips" aria-label="Etiketler"></div>
+
+      <div class="grid" id="gamesGrid" aria-live="polite"></div>
+
+      <div class="empty" id="emptyState" hidden>
+        <h3>Sonuç bulunamadı</h3>
+        <p>Filtreleri temizleyip tekrar deneyebilirsiniz.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div>
+        <strong>Not:</strong> Oyunlar “/oyunlar/…” klasörlerinde yer alır.
+      </div>
+      <div class="muted">Netlify ile yayınlanır.</div>
+    </div>
+  </footer>
+
+  <script src="/assets/site.js"></script>
+</body>
+</html>
+
