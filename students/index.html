@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Öğrenciler | Dijital Oyun Tasarımı</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&family=Nunito:wght@400;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <header class="hero hero-small">
+    <div class="hero-inner">
+      <a class="btn btn-ghost" href="/">← Ana Sayfa</a>
+      <h1>Öğrenciler</h1>
+      <p class="subtitle">Oyun sayısına göre liste</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="panel">
+      <div class="panel-top">
+        <h2>Öğrenci Listesi</h2>
+        <div class="stats">
+          <span class="stat-pill" id="studentCount">Toplam: —</span>
+        </div>
+      </div>
+
+      <div class="filters">
+        <label class="field" style="min-width:280px;">
+          <span>Arama</span>
+          <input id="studentSearch" type="search" placeholder="Örn: Elif, Mehmet..." autocomplete="off" />
+        </label>
+        <a class="btn btn-sun" href="/">Oyunlara Git</a>
+      </div>
+
+      <div class="grid" id="studentsGrid" aria-live="polite"></div>
+
+      <div class="empty" id="studentsEmpty" hidden>
+        <h3>Öğrenci bulunamadı</h3>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="muted">Bir öğrenciye tıklayın: Ana sayfada o öğrenci filtrelenir.</div>
+    </div>
+  </footer>
+
+  <script src="/assets/site.js"></script>
+</body>
+</html>
+

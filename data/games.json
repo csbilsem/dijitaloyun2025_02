@@ -1,386 +1,387 @@
-    [
-      {
-        "id": "g001",
-        "studentName": "Ali Burak",
-        "gameName": "Araba",
-        "slug": "AliBurak/araba",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Hız", "Refleks"],
-        "cover": ""
-      },
-      {
-        "id": "g002",
-        "studentName": "Ali Burak",
-        "gameName": "Balon",
-        "slug": "AliBurak/balon",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Eğlence"],
-        "cover": ""
-      },
-      {
-        "id": "g003",
-        "studentName": "Ali Burak",
-        "gameName": "Cumhuriyet",
-        "slug": "AliBurak/cumhuriyet",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Özel Gün", "Kültür"],
-        "cover": ""
-      },
-      {
-        "id": "g004",
-        "studentName": "Ali Burak",
-        "gameName": "Hesap",
-        "slug": "AliBurak/hesap",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Matematik", "Problem"],
-        "cover": ""
-      },
-      {
-        "id": "g005",
-        "studentName": "Ali Burak",
-        "gameName": "Labirent",
-        "slug": "AliBurak/labirent",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Bulmaca", "Keşif"],
-        "cover": ""
-      },
-      {
-        "id": "g006",
-        "studentName": "Ali Burak",
-        "gameName": "Piyano",
-        "slug": "AliBurak/piyano",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Müzik", "Ritim"],
-        "cover": ""
-      },
-      {
-        "id": "g007",
-        "studentName": "Ali Burak",
-        "gameName": "Top",
-        "slug": "AliBurak/top",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Koordinasyon"],
-        "cover": ""
-      },
+[
+  {
+    "id": "g001",
+    "studentName": "Ali Burak",
+    "gameName": "Araba",
+    "slug": "students/AliBurak/araba",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Hız", "Refleks"],
+    "cover": ""
+  },
+  {
+    "id": "g002",
+    "studentName": "Ali Burak",
+    "gameName": "Balon",
+    "slug": "students/AliBurak/balon",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Eğlence"],
+    "cover": ""
+  },
+  {
+    "id": "g003",
+    "studentName": "Ali Burak",
+    "gameName": "Cumhuriyet",
+    "slug": "students/AliBurak/cumhuriyet",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Özel Gün", "Kültür"],
+    "cover": ""
+  },
+  {
+    "id": "g004",
+    "studentName": "Ali Burak",
+    "gameName": "Hesap",
+    "slug": "students/AliBurak/hesap",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Matematik", "Problem"],
+    "cover": ""
+  },
+  {
+    "id": "g005",
+    "studentName": "Ali Burak",
+    "gameName": "Labirent",
+    "slug": "students/AliBurak/labirent",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Bulmaca", "Keşif"],
+    "cover": ""
+  },
+  {
+    "id": "g006",
+    "studentName": "Ali Burak",
+    "gameName": "Piyano",
+    "slug": "students/AliBurak/piyano",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Müzik", "Ritim"],
+    "cover": ""
+  },
+  {
+    "id": "g007",
+    "studentName": "Ali Burak",
+    "gameName": "Top",
+    "slug": "students/AliBurak/top",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Koordinasyon"],
+    "cover": ""
+  },
 
-      {
-        "id": "g008",
-        "studentName": "Alperen",
-        "gameName": "29 Ekim",
-        "slug": "Alperen/29Ekim",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Özel Gün", "Kültür"],
-        "cover": ""
-      },
-      {
-        "id": "g009",
-        "studentName": "Alperen",
-        "gameName": "Araba",
-        "slug": "Alperen/araba",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Hız", "Refleks"],
-        "cover": ""
-      },
-      {
-        "id": "g010",
-        "studentName": "Alperen",
-        "gameName": "Labirent",
-        "slug": "Alperen/labirent",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Bulmaca", "Keşif"],
-        "cover": ""
-      },
-      {
-        "id": "g011",
-        "studentName": "Alperen",
-        "gameName": "Piyano",
-        "slug": "Alperen/piyano",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Müzik", "Ritim"],
-        "cover": ""
-      },
-      {
-        "id": "g012",
-        "studentName": "Alperen",
-        "gameName": "Top",
-        "slug": "Alperen/top",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Koordinasyon"],
-        "cover": ""
-      },
+  {
+    "id": "g008",
+    "studentName": "Alperen",
+    "gameName": "29 Ekim",
+    "slug": "students/Alperen/29Ekim",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Özel Gün", "Kültür"],
+    "cover": ""
+  },
+  {
+    "id": "g009",
+    "studentName": "Alperen",
+    "gameName": "Araba",
+    "slug": "students/Alperen/araba",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Hız", "Refleks"],
+    "cover": ""
+  },
+  {
+    "id": "g010",
+    "studentName": "Alperen",
+    "gameName": "Labirent",
+    "slug": "students/Alperen/labirent",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Bulmaca", "Keşif"],
+    "cover": ""
+  },
+  {
+    "id": "g011",
+    "studentName": "Alperen",
+    "gameName": "Piyano",
+    "slug": "students/Alperen/piyano",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Müzik", "Ritim"],
+    "cover": ""
+  },
+  {
+    "id": "g012",
+    "studentName": "Alperen",
+    "gameName": "Top",
+    "slug": "students/Alperen/top",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Koordinasyon"],
+    "cover": ""
+  },
 
-      {
-        "id": "g013",
-        "studentName": "Hümeyra",
-        "gameName": "Balon",
-        "slug": "Hümeyra/balon",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Eğlence"],
-        "cover": ""
-      },
-      {
-        "id": "g014",
-        "studentName": "Hümeyra",
-        "gameName": "Top",
-        "slug": "Hümeyra/top",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Koordinasyon"],
-        "cover": ""
-      },
+  {
+    "id": "g013",
+    "studentName": "Hümeyra",
+    "gameName": "Balon",
+    "slug": "students/Hümeyra/balon",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Eğlence"],
+    "cover": ""
+  },
+  {
+    "id": "g014",
+    "studentName": "Hümeyra",
+    "gameName": "Top",
+    "slug": "students/Hümeyra/top",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Koordinasyon"],
+    "cover": ""
+  },
 
-      {
-        "id": "g015",
-        "studentName": "Mete",
-        "gameName": "Balon",
-        "slug": "Mete/balon",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Eğlence"],
-        "cover": ""
-      },
-      {
-        "id": "g016",
-        "studentName": "Mete",
-        "gameName": "Hesap",
-        "slug": "Mete/hesap",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Matematik", "Problem"],
-        "cover": ""
-      },
-      {
-        "id": "g017",
-        "studentName": "Mete",
-        "gameName": "Hikaye",
-        "slug": "Mete/hikaye",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Hikaye", "Yaratıcılık"],
-        "cover": ""
-      },
-      {
-        "id": "g018",
-        "studentName": "Mete",
-        "gameName": "Labirent",
-        "slug": "Mete/labirent",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Bulmaca", "Keşif"],
-        "cover": ""
-      },
-      {
-        "id": "g019",
-        "studentName": "Mete",
-        "gameName": "Saat",
-        "slug": "Mete/saat",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Zaman", "Dikkat"],
-        "cover": ""
-      },
-      {
-        "id": "g020",
-        "studentName": "Mete",
-        "gameName": "Top",
-        "slug": "Mete/top",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Koordinasyon"],
-        "cover": ""
-      },
+  {
+    "id": "g015",
+    "studentName": "Mete",
+    "gameName": "Balon",
+    "slug": "students/Mete/balon",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Eğlence"],
+    "cover": ""
+  },
+  {
+    "id": "g016",
+    "studentName": "Mete",
+    "gameName": "Hesap",
+    "slug": "students/Mete/hesap",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Matematik", "Problem"],
+    "cover": ""
+  },
+  {
+    "id": "g017",
+    "studentName": "Mete",
+    "gameName": "Hikaye",
+    "slug": "students/Mete/hikaye",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Hikaye", "Yaratıcılık"],
+    "cover": ""
+  },
+  {
+    "id": "g018",
+    "studentName": "Mete",
+    "gameName": "Labirent",
+    "slug": "students/Mete/labirent",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Bulmaca", "Keşif"],
+    "cover": ""
+  },
+  {
+    "id": "g019",
+    "studentName": "Mete",
+    "gameName": "Saat",
+    "slug": "students/Mete/saat",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Zaman", "Dikkat"],
+    "cover": ""
+  },
+  {
+    "id": "g020",
+    "studentName": "Mete",
+    "gameName": "Top",
+    "slug": "students/Mete/top",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Koordinasyon"],
+    "cover": ""
+  },
 
-      {
-        "id": "g021",
-        "studentName": "Muhammet Emin",
-        "gameName": "Araba",
-        "slug": "MuhammetEmin/araba",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Hız", "Refleks"],
-        "cover": ""
-      },
-      {
-        "id": "g022",
-        "studentName": "Muhammet Emin",
-        "gameName": "Balon",
-        "slug": "MuhammetEmin/balon",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Eğlence"],
-        "cover": ""
-      },
-      {
-        "id": "g023",
-        "studentName": "Muhammet Emin",
-        "gameName": "Elma",
-        "slug": "MuhammetEmin/elma",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Toplama", "Dikkat"],
-        "cover": ""
-      },
-      {
-        "id": "g024",
-        "studentName": "Muhammet Emin",
-        "gameName": "Hesap",
-        "slug": "MuhammetEmin/hesap",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Matematik", "Problem"],
-        "cover": ""
-      },
-      {
-        "id": "g025",
-        "studentName": "Muhammet Emin",
-        "gameName": "Kutlama",
-        "slug": "MuhammetEmin/kutlama",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Özel Gün", "Eğlence"],
-        "cover": ""
-      },
-      {
-        "id": "g026",
-        "studentName": "Muhammet Emin",
-        "gameName": "Top",
-        "slug": "MuhammetEmin/top",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Koordinasyon"],
-        "cover": ""
-      },
+  {
+    "id": "g021",
+    "studentName": "MuhammetEmin",
+    "gameName": "Araba",
+    "slug": "students/MuhammetEmin/araba",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Hız", "Refleks"],
+    "cover": ""
+  },
+  {
+    "id": "g022",
+    "studentName": "MuhammetEmin",
+    "gameName": "Balon",
+    "slug": "students/MuhammetEmin/balon",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Eğlence"],
+    "cover": ""
+  },
+  {
+    "id": "g023",
+    "studentName": "MuhammetEmin",
+    "gameName": "Elma",
+    "slug": "students/MuhammetEmin/elma",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Toplama", "Dikkat"],
+    "cover": ""
+  },
+  {
+    "id": "g024",
+    "studentName": "MuhammetEmin",
+    "gameName": "Hesap",
+    "slug": "students/MuhammetEmin/hesap",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Matematik", "Problem"],
+    "cover": ""
+  },
+  {
+    "id": "g025",
+    "studentName": "MuhammetEmin",
+    "gameName": "Kutlama",
+    "slug": "students/MuhammetEmin/kutlama",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Özel Gün", "Eğlence"],
+    "cover": ""
+  },
+  {
+    "id": "g026",
+    "studentName": "MuhammetEmin",
+    "gameName": "Top",
+    "slug": "students/MuhammetEmin/top",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Koordinasyon"],
+    "cover": ""
+  },
 
-      {
-        "id": "g027",
-        "studentName": "Murat Tuna",
-        "gameName": "Araba",
-        "slug": "MuratTuna/araba",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Hız", "Refleks"],
-        "cover": ""
-      },
-      {
-        "id": "g028",
-        "studentName": "Murat Tuna",
-        "gameName": "Balon",
-        "slug": "MuratTuna/balon",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Eğlence"],
-        "cover": ""
-      },
-      {
-        "id": "g029",
-        "studentName": "Murat Tuna",
-        "gameName": "Bilgi",
-        "slug": "MuratTuna/bilgi",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Bilgi", "Quiz"],
-        "cover": ""
-      },
-      {
-        "id": "g030",
-        "studentName": "Murat Tuna",
-        "gameName": "Hesap",
-        "slug": "MuratTuna/hesap",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Matematik", "Problem"],
-        "cover": ""
-      },
-      {
-        "id": "g031",
-        "studentName": "Murat Tuna",
-        "gameName": "Labirent",
-        "slug": "MuratTuna/labirent",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Bulmaca", "Keşif"],
-        "cover": ""
-      },
-      {
-        "id": "g032",
-        "studentName": "Murat Tuna",
-        "gameName": "Piyano",
-        "slug": "MuratTuna/piyano",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Müzik", "Ritim"],
-        "cover": ""
-      },
-      {
-        "id": "g033",
-        "studentName": "Murat Tuna",
-        "gameName": "Saat",
-        "slug": "MuratTuna/saat",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Zaman", "Dikkat"],
-        "cover": ""
-      },
-      {
-        "id": "g034",
-        "studentName": "Murat Tuna",
-        "gameName": "Top",
-        "slug": "MuratTuna/top",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Koordinasyon"],
-        "cover": ""
-      },
-      {
-        "id": "g035",
-        "studentName": "Murat Tuna",
-        "gameName": "Trafik",
-        "slug": "MuratTuna/trafik",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Trafik", "Kurallar"],
-        "cover": ""
-      },
+  {
+    "id": "g027",
+    "studentName": "MuratTuna",
+    "gameName": "Araba",
+    "slug": "students/MuratTuna/araba",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Hız", "Refleks"],
+    "cover": ""
+  },
+  {
+    "id": "g028",
+    "studentName": "MuratTuna",
+    "gameName": "Balon",
+    "slug": "students/MuratTuna/balon",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Eğlence"],
+    "cover": ""
+  },
+  {
+    "id": "g029",
+    "studentName": "MuratTuna",
+    "gameName": "Bilgi",
+    "slug": "students/MuratTuna/bilgi",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Bilgi", "Quiz"],
+    "cover": ""
+  },
+  {
+    "id": "g030",
+    "studentName": "MuratTuna",
+    "gameName": "Hesap",
+    "slug": "students/MuratTuna/hesap",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Matematik", "Problem"],
+    "cover": ""
+  },
+  {
+    "id": "g031",
+    "studentName": "MuratTuna",
+    "gameName": "Labirent",
+    "slug": "students/MuratTuna/labirent",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Bulmaca", "Keşif"],
+    "cover": ""
+  },
+  {
+    "id": "g032",
+    "studentName": "MuratTuna",
+    "gameName": "Piyano",
+    "slug": "students/MuratTuna/piyano",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Müzik", "Ritim"],
+    "cover": ""
+  },
+  {
+    "id": "g033",
+    "studentName": "MuratTuna",
+    "gameName": "Saat",
+    "slug": "students/MuratTuna/saat",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Zaman", "Dikkat"],
+    "cover": ""
+  },
+  {
+    "id": "g034",
+    "studentName": "MuratTuna",
+    "gameName": "Top",
+    "slug": "students/MuratTuna/top",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Koordinasyon"],
+    "cover": ""
+  },
+  {
+    "id": "g035",
+    "studentName": "MuratTuna",
+    "gameName": "Trafik",
+    "slug": "students/MuratTuna/trafik",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Trafik", "Kurallar"],
+    "cover": ""
+  },
 
-      {
-        "id": "g036",
-        "studentName": "Rahaf",
-        "gameName": "Araba",
-        "slug": "Rahaf/araba",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Hız", "Refleks"],
-        "cover": ""
-      },
-      {
-        "id": "g037",
-        "studentName": "Rahaf",
-        "gameName": "Balon",
-        "slug": "Rahaf/balon",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Eğlence"],
-        "cover": ""
-      },
-      {
-        "id": "g038",
-        "studentName": "Rahaf",
-        "gameName": "Hesap",
-        "slug": "Rahaf/hesap",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Matematik", "Problem"],
-        "cover": ""
-      },
-      {
-        "id": "g039",
-        "studentName": "Rahaf",
-        "gameName": "Piyano",
-        "slug": "Rahaf/piyano",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Müzik", "Ritim"],
-        "cover": ""
-      },
-      {
-        "id": "g040",
-        "studentName": "Rahaf",
-        "gameName": "Tiyatro",
-        "slug": "Rahaf/tiyatro",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Sanat", "Yaratıcılık"],
-        "cover": ""
-      },
-      {
-        "id": "g041",
-        "studentName": "Rahaf",
-        "gameName": "Top",
-        "slug": "Rahaf/top",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Refleks", "Koordinasyon"],
-        "cover": ""
-      },
-      {
-        "id": "g042",
-        "studentName": "Rahaf",
-        "gameName": "Trafik",
-        "slug": "Rahaf/trafik",
-        "description": "PictoBlox öğrenci oyunu",
-        "tags": ["Trafik", "Kurallar"],
-        "cover": ""
-      }
-    ]
+  {
+    "id": "g036",
+    "studentName": "Rahaf",
+    "gameName": "Araba",
+    "slug": "students/Rahaf/araba",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Hız", "Refleks"],
+    "cover": ""
+  },
+  {
+    "id": "g037",
+    "studentName": "Rahaf",
+    "gameName": "Balon",
+    "slug": "students/Rahaf/balon",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Eğlence"],
+    "cover": ""
+  },
+  {
+    "id": "g038",
+    "studentName": "Rahaf",
+    "gameName": "Hesap",
+    "slug": "students/Rahaf/hesap",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Matematik", "Problem"],
+    "cover": ""
+  },
+  {
+    "id": "g039",
+    "studentName": "Rahaf",
+    "gameName": "Piyano",
+    "slug": "students/Rahaf/piyano",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Müzik", "Ritim"],
+    "cover": ""
+  },
+  {
+    "id": "g040",
+    "studentName": "Rahaf",
+    "gameName": "Tiyatro",
+    "slug": "students/Rahaf/tiyatro",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Sanat", "Yaratıcılık"],
+    "cover": ""
+  },
+  {
+    "id": "g041",
+    "studentName": "Rahaf",
+    "gameName": "Top",
+    "slug": "students/Rahaf/top",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Refleks", "Koordinasyon"],
+    "cover": ""
+  },
+  {
+    "id": "g042",
+    "studentName": "Rahaf",
+    "gameName": "Trafik",
+    "slug": "students/Rahaf/trafik",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Trafik", "Kurallar"],
+    "cover": ""
+  }
+]
+
