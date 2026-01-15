@@ -99,7 +99,7 @@ function renderIndex(games) {
     const actions = el("div", { class: "card-actions" }, [
       el("a", {
         class: "link-btn primary",
-        href: `/oyunlar/${game.slug}/`,
+        href: `/${game.slug}/`,
         target: "_blank",
         rel: "noopener"
       }, ["Oyunu Aç"]),
