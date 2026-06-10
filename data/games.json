@@ -382,6 +382,87 @@
     "description": "PictoBlox öğrenci oyunu",
     "tags": ["Trafik", "Kurallar"],
     "cover": ""
+  },
+  {
+    "id": "g043",
+    "studentName": "Murat Tuna",
+    "gameName": "Asansör 1",
+    "slug": "students/MuratTuna/asansor1",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Asansör", "Mekanizma"],
+    "cover": ""
+  },
+  {
+    "id": "g044",
+    "studentName": "Murat Tuna",
+    "gameName": "Helikopter",
+    "slug": "students/MuratTuna/helikopter",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Helikopter", "Uçuş"],
+    "cover": ""
+  },
+  {
+    "id": "g045",
+    "studentName": "Murat Tuna",
+    "gameName": "Hikaye",
+    "slug": "students/MuratTuna/hikaye",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Hikaye", "Animasyon"],
+    "cover": ""
+  },
+  {
+    "id": "g046",
+    "studentName": "Murat Tuna",
+    "gameName": "Kafa",
+    "slug": "students/MuratTuna/kafa",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Kafa", "Oyun"],
+    "cover": ""
+  },
+  {
+    "id": "g047",
+    "studentName": "Murat Tuna",
+    "gameName": "Ramazan",
+    "slug": "students/MuratTuna/ramazan",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Ramazan", "Kültür"],
+    "cover": ""
+  },
+  {
+    "id": "g048",
+    "studentName": "Murat Tuna",
+    "gameName": "Roket",
+    "slug": "students/MuratTuna/roket",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Roket", "Uzay"],
+    "cover": ""
+  },
+  {
+    "id": "g049",
+    "studentName": "Murat Tuna",
+    "gameName": "Şifre",
+    "slug": "students/MuratTuna/sifre",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Şifre", "Güvenlik"],
+    "cover": ""
+  },
+  {
+    "id": "g050",
+    "studentName": "Murat Tuna",
+    "gameName": "Uzay Savaşı",
+    "slug": "students/MuratTuna/uzaysavasi",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Uzay", "Savaş", "Aksiyon"],
+    "cover": ""
+  },
+  {
+    "id": "g051",
+    "studentName": "Murat Tuna",
+    "gameName": "Sıfır Atık",
+    "slug": "students/MuratTuna/sifiratik",
+    "description": "PictoBlox öğrenci oyunu",
+    "tags": ["Sıfır Atık", "Çevre", "Geri Dönüşüm"],
+    "cover": ""
   }
 ]
 
